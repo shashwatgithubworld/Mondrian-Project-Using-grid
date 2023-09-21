@@ -1,3 +1,4 @@
+/* Used some flex-box to center the div */
 body {
   display: flex;
   justify-content: center;
